@@ -85,7 +85,20 @@ except FileNotFoundError:
 # ═══════════════════════════════════════════════════════════
 # SECCIÓN 3 · SIDEBAR CON FILTROS
 # ═══════════════════════════════════════════════════════════
-st.sidebar.image("https://itseia.ai/logo.png", width=160)
+st.sidebar.markdown(
+    f"""
+    <div style="text-align:center; padding:14px 0 18px 0;">
+        <div style="font-family:'Space Grotesk',sans-serif; font-weight:800;
+                    font-size:1.6rem; color:{NAVY}; letter-spacing:-1px;">
+            📊 ITSEIA
+        </div>
+        <div style="font-size:.72rem; color:{NAVY}; opacity:.7; margin-top:2px;">
+            ACADEMY
+        </div>
+    </div>
+    """,
+    unsafe_allow_html=True,
+)
 st.sidebar.header("🎛️ Filtros")
 
 provincias = sorted(df["provincia"].unique())
