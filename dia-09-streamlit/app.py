@@ -8,9 +8,13 @@ Ejecuta local con:
 O súbelo a Streamlit Cloud para tener URL pública.
 """
 
+from pathlib import Path
+
 import pandas as pd
 import plotly.express as px
 import streamlit as st
+
+CSV_PATH = Path(__file__).parent / "ventas_ecuador_2025.csv"
 
 # ═══════════════════════════════════════════════════════════
 # CONFIGURACIÓN DE LA PÁGINA
@@ -61,7 +65,7 @@ st.divider()
 @st.cache_data
 def cargar_datos():
     """Carga el CSV y normaliza columnas básicas."""
-    df = pd.read_csv("ventas_ecuador_2025.csv")
+    df = pd.read_csv(CSV_PATH)
     # Aseguramos tipos
     df["unidades"] = df["unidades"].astype(int)
     df["precio_unitario"] = df["precio_unitario"].astype(float)
