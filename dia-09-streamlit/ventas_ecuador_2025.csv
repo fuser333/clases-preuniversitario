@@ -1,0 +1,243 @@
+provincia,mes,producto,unidades,precio_unitario,ingresos_total
+Pichincha,Enero,Laptop,10,850.0,8500.0
+Pichincha,Enero,Mouse,25,25.0,625.0
+Pichincha,Enero,Monitor,31,320.0,9920.0
+Guayas,Enero,Tablet,17,280.0,4760.0
+Guayas,Enero,Teclado,28,45.0,1260.0
+Guayas,Enero,Monitor,31,320.0,9920.0
+Azuay,Enero,Audifonos,14,65.0,910.0
+Azuay,Enero,Mouse,15,25.0,375.0
+Manabi,Enero,Smartphone,8,420.0,3360.0
+Manabi,Enero,Audifonos,12,65.0,780.0
+Manabi,Enero,Teclado,15,45.0,675.0
+Tungurahua,Enero,Smartwatch,10,180.0,1800.0
+Loja,Enero,Laptop,6,850.0,5100.0
+Loja,Enero,Tablet,7,280.0,1960.0
+Loja,Enero,Mouse,10,25.0,250.0
+El Oro,Enero,Smartphone,8,420.0,3360.0
+El Oro,Enero,Tablet,9,280.0,2520.0
+El Oro,Enero,Monitor,15,320.0,4800.0
+Imbabura,Enero,Laptop,6,850.0,5100.0
+Imbabura,Enero,Audifonos,10,65.0,650.0
+Imbabura,Enero,Monitor,12,320.0,3840.0
+Pichincha,Febrero,Smartphone,13,420.0,5460.0
+Pichincha,Febrero,Teclado,28,45.0,1260.0
+Guayas,Febrero,Smartwatch,19,180.0,3420.0
+Guayas,Febrero,Mouse,25,25.0,625.0
+Azuay,Febrero,Laptop,7,850.0,5950.0
+Azuay,Febrero,Audifonos,14,65.0,910.0
+Azuay,Febrero,Mouse,15,25.0,375.0
+Manabi,Febrero,Tablet,9,280.0,2520.0
+Manabi,Febrero,Smartwatch,11,180.0,1980.0
+Manabi,Febrero,Monitor,16,320.0,5120.0
+Tungurahua,Febrero,Tablet,9,280.0,2520.0
+Tungurahua,Febrero,Audifonos,12,65.0,780.0
+Loja,Febrero,Smartphone,6,420.0,2520.0
+Loja,Febrero,Teclado,11,45.0,495.0
+El Oro,Febrero,Laptop,7,850.0,5950.0
+El Oro,Febrero,Smartwatch,10,180.0,1800.0
+El Oro,Febrero,Monitor,15,320.0,4800.0
+Imbabura,Febrero,Laptop,6,850.0,5100.0
+Imbabura,Febrero,Mouse,10,25.0,250.0
+Imbabura,Febrero,Teclado,11,45.0,495.0
+Pichincha,Marzo,Tablet,16,280.0,4480.0
+Pichincha,Marzo,Mouse,25,25.0,625.0
+Pichincha,Marzo,Monitor,31,320.0,9920.0
+Guayas,Marzo,Audifonos,22,65.0,1430.0
+Azuay,Marzo,Smartphone,9,420.0,3780.0
+Azuay,Marzo,Smartwatch,12,180.0,2160.0
+Azuay,Marzo,Teclado,17,45.0,765.0
+Manabi,Marzo,Tablet,9,280.0,2520.0
+Manabi,Marzo,Smartwatch,11,180.0,1980.0
+Tungurahua,Marzo,Laptop,7,850.0,5950.0
+Tungurahua,Marzo,Smartphone,8,420.0,3360.0
+Tungurahua,Marzo,Mouse,13,25.0,325.0
+Loja,Marzo,Laptop,6,850.0,5100.0
+Loja,Marzo,Tablet,7,280.0,1960.0
+Loja,Marzo,Monitor,12,320.0,3840.0
+El Oro,Marzo,Audifonos,11,65.0,715.0
+El Oro,Marzo,Teclado,14,45.0,630.0
+Imbabura,Marzo,Smartphone,7,420.0,2940.0
+Imbabura,Marzo,Mouse,10,25.0,250.0
+Imbabura,Marzo,Teclado,11,45.0,495.0
+Pichincha,Abril,Smartwatch,26,180.0,4680.0
+Pichincha,Abril,Audifonos,30,65.0,1950.0
+Guayas,Abril,Laptop,15,850.0,12750.0
+Guayas,Abril,Smartwatch,27,180.0,4860.0
+Guayas,Abril,Mouse,35,25.0,875.0
+Azuay,Abril,Tablet,15,280.0,4200.0
+Azuay,Abril,Monitor,26,320.0,8320.0
+Manabi,Abril,Smartphone,11,420.0,4620.0
+Manabi,Abril,Audifonos,17,65.0,1105.0
+Tungurahua,Abril,Laptop,10,850.0,8500.0
+Tungurahua,Abril,Smartphone,11,420.0,4620.0
+Tungurahua,Abril,Teclado,20,45.0,900.0
+Tungurahua,Abril,Monitor,21,320.0,6720.0
+Loja,Abril,Smartwatch,12,180.0,2160.0
+Loja,Abril,Teclado,15,45.0,675.0
+El Oro,Abril,Laptop,10,850.0,8500.0
+El Oro,Abril,Mouse,18,25.0,450.0
+Imbabura,Abril,Tablet,11,280.0,3080.0
+Imbabura,Abril,Audifonos,14,65.0,910.0
+Imbabura,Abril,Monitor,17,320.0,5440.0
+Pichincha,Mayo,Smartwatch,26,180.0,4680.0
+Pichincha,Mayo,Audifonos,30,65.0,1950.0
+Guayas,Mayo,Smartphone,19,420.0,7980.0
+Guayas,Mayo,Tablet,23,280.0,6440.0
+Guayas,Mayo,Teclado,39,45.0,1755.0
+Azuay,Mayo,Smartphone,13,420.0,5460.0
+Azuay,Mayo,Smartwatch,17,180.0,3060.0
+Manabi,Mayo,Laptop,10,850.0,8500.0
+Manabi,Mayo,Mouse,19,25.0,475.0
+Manabi,Mayo,Monitor,23,320.0,7360.0
+Tungurahua,Mayo,Tablet,13,280.0,3640.0
+Tungurahua,Mayo,Teclado,20,45.0,900.0
+Tungurahua,Mayo,Monitor,21,320.0,6720.0
+Loja,Mayo,Audifonos,13,65.0,845.0
+Loja,Mayo,Mouse,14,25.0,350.0
+El Oro,Mayo,Smartphone,12,420.0,5040.0
+El Oro,Mayo,Audifonos,16,65.0,1040.0
+El Oro,Mayo,Teclado,19,45.0,855.0
+Imbabura,Mayo,Smartwatch,12,180.0,2160.0
+Pichincha,Junio,Laptop,10,850.0,8500.0
+Pichincha,Junio,Tablet,16,280.0,4480.0
+Pichincha,Junio,Mouse,25,25.0,625.0
+Guayas,Junio,Smartphone,14,420.0,5880.0
+Guayas,Junio,Tablet,17,280.0,4760.0
+Guayas,Junio,Monitor,31,320.0,9920.0
+Azuay,Junio,Laptop,7,850.0,5950.0
+Azuay,Junio,Audifonos,14,65.0,910.0
+Azuay,Junio,Monitor,19,320.0,6080.0
+Manabi,Junio,Smartphone,8,420.0,3360.0
+Manabi,Junio,Teclado,15,45.0,675.0
+Tungurahua,Junio,Smartwatch,10,180.0,1800.0
+Tungurahua,Junio,Mouse,13,25.0,325.0
+Loja,Junio,Laptop,6,850.0,5100.0
+Loja,Junio,Audifonos,9,65.0,585.0
+Loja,Junio,Mouse,10,25.0,250.0
+El Oro,Junio,Tablet,9,280.0,2520.0
+El Oro,Junio,Smartwatch,10,180.0,1800.0
+El Oro,Junio,Monitor,15,320.0,4800.0
+Imbabura,Junio,Tablet,8,280.0,2240.0
+Imbabura,Junio,Audifonos,10,65.0,650.0
+Pichincha,Julio,Smartphone,13,420.0,5460.0
+Pichincha,Julio,Teclado,28,45.0,1260.0
+Guayas,Julio,Laptop,11,850.0,9350.0
+Guayas,Julio,Smartwatch,19,180.0,3420.0
+Guayas,Julio,Monitor,31,320.0,9920.0
+Azuay,Julio,Laptop,7,850.0,5950.0
+Azuay,Julio,Mouse,15,25.0,375.0
+Azuay,Julio,Teclado,17,45.0,765.0
+Manabi,Julio,Tablet,9,280.0,2520.0
+Manabi,Julio,Mouse,13,25.0,325.0
+Manabi,Julio,Monitor,16,320.0,5120.0
+Tungurahua,Julio,Audifonos,12,65.0,780.0
+Loja,Julio,Smartphone,6,420.0,2520.0
+Loja,Julio,Smartwatch,8,180.0,1440.0
+Loja,Julio,Teclado,11,45.0,495.0
+El Oro,Julio,Tablet,9,280.0,2520.0
+El Oro,Julio,Smartwatch,10,180.0,1800.0
+Imbabura,Julio,Laptop,6,850.0,5100.0
+Imbabura,Julio,Smartphone,7,420.0,2940.0
+Imbabura,Julio,Mouse,10,25.0,250.0
+Pichincha,Agosto,Laptop,10,850.0,8500.0
+Pichincha,Agosto,Tablet,16,280.0,4480.0
+Pichincha,Agosto,Monitor,31,320.0,9920.0
+Guayas,Agosto,Audifonos,22,65.0,1430.0
+Guayas,Agosto,Teclado,28,45.0,1260.0
+Azuay,Agosto,Smartphone,9,420.0,3780.0
+Azuay,Agosto,Mouse,15,25.0,375.0
+Azuay,Agosto,Teclado,17,45.0,765.0
+Manabi,Agosto,Smartwatch,11,180.0,1980.0
+Manabi,Agosto,Audifonos,12,65.0,780.0
+Tungurahua,Agosto,Laptop,7,850.0,5950.0
+Tungurahua,Agosto,Smartwatch,10,180.0,1800.0
+Tungurahua,Agosto,Mouse,13,25.0,325.0
+Loja,Agosto,Tablet,7,280.0,1960.0
+Loja,Agosto,Monitor,12,320.0,3840.0
+El Oro,Agosto,Smartphone,8,420.0,3360.0
+El Oro,Agosto,Audifonos,11,65.0,715.0
+Imbabura,Agosto,Laptop,6,850.0,5100.0
+Imbabura,Agosto,Smartphone,7,420.0,2940.0
+Imbabura,Agosto,Teclado,11,45.0,495.0
+Imbabura,Agosto,Monitor,12,320.0,3840.0
+Pichincha,Septiembre,Smartwatch,19,180.0,3420.0
+Pichincha,Septiembre,Teclado,28,45.0,1260.0
+Guayas,Septiembre,Laptop,11,850.0,9350.0
+Guayas,Septiembre,Mouse,25,25.0,625.0
+Azuay,Septiembre,Tablet,11,280.0,3080.0
+Azuay,Septiembre,Audifonos,14,65.0,910.0
+Azuay,Septiembre,Monitor,19,320.0,6080.0
+Manabi,Septiembre,Smartwatch,11,180.0,1980.0
+Manabi,Septiembre,Audifonos,12,65.0,780.0
+Tungurahua,Septiembre,Smartphone,8,420.0,3360.0
+Tungurahua,Septiembre,Tablet,9,280.0,2520.0
+Tungurahua,Septiembre,Teclado,14,45.0,630.0
+Loja,Septiembre,Smartphone,6,420.0,2520.0
+Loja,Septiembre,Smartwatch,8,180.0,1440.0
+El Oro,Septiembre,Laptop,7,850.0,5950.0
+El Oro,Septiembre,Mouse,12,25.0,300.0
+El Oro,Septiembre,Monitor,15,320.0,4800.0
+Imbabura,Septiembre,Tablet,8,280.0,2240.0
+Imbabura,Septiembre,Teclado,11,45.0,495.0
+Imbabura,Septiembre,Monitor,12,320.0,3840.0
+Pichincha,Octubre,Audifonos,22,65.0,1430.0
+Pichincha,Octubre,Mouse,25,25.0,625.0
+Guayas,Octubre,Smartphone,14,420.0,5880.0
+Guayas,Octubre,Audifonos,22,65.0,1430.0
+Guayas,Octubre,Teclado,28,45.0,1260.0
+Azuay,Octubre,Smartwatch,12,180.0,2160.0
+Manabi,Octubre,Laptop,7,850.0,5950.0
+Manabi,Octubre,Tablet,9,280.0,2520.0
+Manabi,Octubre,Mouse,13,25.0,325.0
+Tungurahua,Octubre,Smartphone,8,420.0,3360.0
+Tungurahua,Octubre,Tablet,9,280.0,2520.0
+Tungurahua,Octubre,Monitor,15,320.0,4800.0
+Loja,Octubre,Laptop,6,850.0,5100.0
+Loja,Octubre,Audifonos,9,65.0,585.0
+Loja,Octubre,Monitor,12,320.0,3840.0
+El Oro,Octubre,Smartphone,8,420.0,3360.0
+El Oro,Octubre,Teclado,14,45.0,630.0
+Imbabura,Octubre,Smartwatch,9,180.0,1620.0
+Imbabura,Octubre,Mouse,10,25.0,250.0
+Pichincha,Noviembre,Laptop,10,850.0,8500.0
+Pichincha,Noviembre,Audifonos,22,65.0,1430.0
+Pichincha,Noviembre,Mouse,25,25.0,625.0
+Guayas,Noviembre,Tablet,17,280.0,4760.0
+Guayas,Noviembre,Smartwatch,19,180.0,3420.0
+Guayas,Noviembre,Monitor,31,320.0,9920.0
+Azuay,Noviembre,Tablet,11,280.0,3080.0
+Azuay,Noviembre,Audifonos,14,65.0,910.0
+Manabi,Noviembre,Smartphone,8,420.0,3360.0
+Manabi,Noviembre,Teclado,15,45.0,675.0
+Tungurahua,Noviembre,Laptop,7,850.0,5950.0
+Tungurahua,Noviembre,Smartwatch,10,180.0,1800.0
+Tungurahua,Noviembre,Monitor,15,320.0,4800.0
+Loja,Noviembre,Laptop,6,850.0,5100.0
+Loja,Noviembre,Mouse,10,25.0,250.0
+Loja,Noviembre,Teclado,11,45.0,495.0
+El Oro,Noviembre,Tablet,9,280.0,2520.0
+El Oro,Noviembre,Mouse,12,25.0,300.0
+El Oro,Noviembre,Monitor,15,320.0,4800.0
+Imbabura,Noviembre,Audifonos,10,65.0,650.0
+Pichincha,Diciembre,Smartphone,18,420.0,7560.0
+Pichincha,Diciembre,Smartwatch,26,180.0,4680.0
+Pichincha,Diciembre,Teclado,39,45.0,1755.0
+Guayas,Diciembre,Tablet,23,280.0,6440.0
+Guayas,Diciembre,Smartwatch,27,180.0,4860.0
+Azuay,Diciembre,Laptop,10,850.0,8500.0
+Azuay,Diciembre,Smartphone,13,420.0,5460.0
+Azuay,Diciembre,Mouse,22,25.0,550.0
+Manabi,Diciembre,Laptop,10,850.0,8500.0
+Manabi,Diciembre,Tablet,13,280.0,3640.0
+Manabi,Diciembre,Monitor,23,320.0,7360.0
+Tungurahua,Diciembre,Audifonos,16,65.0,1040.0
+Tungurahua,Diciembre,Teclado,20,45.0,900.0
+Loja,Diciembre,Smartphone,9,420.0,3780.0
+Loja,Diciembre,Mouse,14,25.0,350.0
+Loja,Diciembre,Teclado,15,45.0,675.0
+El Oro,Diciembre,Smartwatch,15,180.0,2700.0
+El Oro,Diciembre,Audifonos,16,65.0,1040.0
+Imbabura,Diciembre,Laptop,9,850.0,7650.0
+Imbabura,Diciembre,Smartwatch,12,180.0,2160.0
+Imbabura,Diciembre,Mouse,15,25.0,375.0
